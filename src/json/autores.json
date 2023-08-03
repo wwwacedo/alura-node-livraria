@@ -1,0 +1,19 @@
+[
+	{
+		"nome": "John Doe",
+		"nacionalidade": "Brasileiro"
+	},
+	{
+		"nome": "John Doe 2",
+		"nacionalidade": "Italiano"
+	},
+	{
+		"nome": "Mary Doe",
+		"nacionalidade": "Japonesa"
+	},
+	{
+		"nome": "Agatha Christie",
+		"nacionalidade": "Inglesa"
+	}
+	
+]

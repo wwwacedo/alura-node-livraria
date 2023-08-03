@@ -1,0 +1,80 @@
+[
+	{
+		"titulo": "Casa de praia",
+		"autor": "João",
+		"editora": "Abril",
+		"numeroPaginas": 100
+	},
+	{
+		"titulo": "Casa de campo",
+		"autor": "Maria",
+		"editora": "Abril",
+		"numeroPaginas": 200
+	},
+	{
+		"titulo": "Casa de cidade",
+		"autor": "José",
+		"editora": "Abril",
+		"numeroPaginas": 300
+	},
+	{
+		"titulo": "O assassinato de Roger Ackroyd",
+		"autor": "64c37d046f88205e9e5d9a79",
+		"editora": "Globo Livros",
+		"numeroPaginas": 296	
+	},
+	{
+		"titulo": "Kotlin com Android",
+		"autor": "64c62654d7fb232476e3e41a",
+		"editora": "Casa do Código",
+		"numeroPaginas": 498
+	},
+	{
+		"titulo": "Assassinato no Expresso do Oriente",
+		"autor": "64c37d046f88205e9e5d9a79",
+		"editora": "Globo Livros",
+		"numeroPaginas": 500
+	},
+	{
+		"titulo": "Os crimes ABC",
+		"autor": "64c37d046f88205e9e5d9a79",
+		"editora": "Globo Livros",
+		"numeroPaginas": 689	
+	},
+	{
+		"titulo": "Convite Para um Homicídio",
+		"autor": "64c37d046f88205e9e5d9a79",
+		"editora": "Globo Livros",
+		"numeroPaginas": 201	
+	},
+	{
+		"titulo": "Morte na Praia",
+		"autor": "64c37d046f88205e9e5d9a79",
+		"editora": "Globo Livros",
+		"numeroPaginas": 563	
+	},
+	{
+		"titulo": "Um Brinde de Cianureto",
+		"autor": "64c37d046f88205e9e5d9a79",
+		"editora": "Globo Livros",
+		"numeroPaginas": 333	
+	},
+	{
+		"titulo": "Uma Dose Mortal",
+		"autor": "64c37d046f88205e9e5d9a79",
+		"editora": "Globo Livros",
+		"numeroPaginas": 3890	
+	},
+	{
+		"titulo": "O homem de giz",
+		"autor": "64ca1631ef823e2b1f633e8f",
+		"editora": "Globo Livros",
+		"numeroPaginas": 100	
+	},
+	{
+		"titulo": "O que aconteceu com Annie",
+		"autor": "64ca1631ef823e2b1f633e8f",
+		"editora": "Globo Livros",
+		"numeroPaginas": 120
+	}
+]
